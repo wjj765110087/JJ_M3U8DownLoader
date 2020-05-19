@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name             = 'JJ_M3U8DownLoader'
-s.version          = '0.1.2'
+s.version          = '0.1.3'
 s.summary          = 'M3U8下载器'
 s.description      = <<-DESC
 m3u8下载器
